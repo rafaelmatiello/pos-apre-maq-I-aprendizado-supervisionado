@@ -154,7 +154,41 @@
 		- Teste de hipotese, para verificar qual é o melhor para utilizar.
 		- Qual utilizar?
 		
-# Desempenho
-	- A
+# aulas 2
+	- Fit
+		-  vai aprender com base nos dados
+		- transforme
+	- Transform 
+		- teste
+	- Graficos com mais montanhas são ruins
+		- bin modal, duas 
+		- Encontrar alguma lógica para ver porque sobe e desce.
+		- criar um subspace para trabalhar com os dados.
+	- OnHotencoder
+		- tranforma a categoria em variável
+		- criar o esquema de colunas com 0, 1
+		- qualitativa
+	- MinMaxScaler
+		- exemplo: idade para um scala de 0 a 1 
+		- assim todas as features vão ficar na mesma escala. de 0 a 4
+			- 0 -0
+			- 1 - 0,25
+			- 2 - 0,5
+			- 3 - 0,75
+			- 4 - 1
+		- quantitativa
+	- kfold
+		- separa os dados em x (5) partes
+		- shuffle - > randominar os dados.
+		- uma partição é utilizada para o teste
+		- 1 é treinio, 0 é teste
+	- viés
+		- alto valor de erro
+		- a linha por exemplo, não consegue aproxinal de forma adequando o modelo real que é um curva
+	- variancia
+		- 
+		
+selling_price
+
 	
 	
