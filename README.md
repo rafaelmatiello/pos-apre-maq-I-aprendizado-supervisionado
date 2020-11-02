@@ -4,7 +4,12 @@
  
  Links:
  - https://www.kaggle.com/
-
+ - https://colab.research.google.com/drive/1PHdPjEjJDN_KVZSK6jeF6uhGJE0ujs1e?usp=sharing
+ 
+ Exercicio 1
+ 
+https://colab.research.google.com/drive/1CiwskAQjDylKz7hcsyeC9ws5K9EoR7he#scrollTo=7_fGAO1wHQGd
+https://colab.research.google.com/drive/1CiwskAQjDylKz7hcsyeC9ws5K9EoR7he#scrollTo=dmiLgBdoKbKk
 # Tipo de aprendizado
 
 
@@ -188,7 +193,9 @@
 	- variancia
 		- 
 		
-selling_price
+# Aula 3
+	-  google slide, tamanho A3
+	- 
 
 	
 	
